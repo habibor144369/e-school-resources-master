@@ -1,0 +1,243 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.logo img{
+    height: 40%;
+    width: 40%;
+}
+.navigation a{
+    margin:0px 30px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.sing{
+    color: white;
+    background-color: rgb(32, 189, 97);
+    padding: 6px 17px;
+    border-radius: 100px;
+    font-size: 13px;
+}
+.photo img{
+    height: 100%;
+    width: 100%;
+    margin-right: 35px;
+    margin-top: 60px
+}
+.discribe p{
+    margin-top: 100px;
+    margin-left: 20px;
+    font-size: larger;
+    color: rgb(240, 68, 68);
+    font-weight: 600;
+}
+.discribe h1{
+    margin-left: 20px;
+    font-weight: 700;
+}
+.color{
+    color: rgb(36, 206, 121);
+}
+h6{
+    margin-left: 20px;
+    color: grey;
+    padding: 20px 0px;
+
+}
+
+.button {
+    margin-left: 20px;
+    color: white;
+    background-color: rgb(30, 156, 83);
+    padding: 10px 25px;
+    border: none;
+    border-radius: 100px;
+    font-size: 15px;
+}
+.hade_saction{
+    height: 550px;
+    background-color: rgb(236, 255, 249);
+}
+
+.box{
+    height: 280px;
+    width: 260px;
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(243, 254, 255);
+    margin: 20px 0px;
+    border-radius: 5%;
+}
+.box p{
+    font-size:20px;
+}
+.All_Box{
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-around;
+}
+img{
+    height: 70px;
+    width: 70px;
+}
+.box{
+    padding: 50px 0px;
+    box-shadow: 1px 1px 1px rgb(233, 254, 255);
+}
+.child{
+    padding: 20px 0px;
+}
+.child p{
+    font-size: 16px;
+}
+.middle{
+    margin-bottom: 10px;
+    height: 450px;
+    padding: 5px 0px;
+}
+.name{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(36, 36, 95);
+    margin-bottom: 50px;
+}
+.name2{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(36, 36, 95);
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.allCard .card{
+    border-radius: 10px;
+    margin: 10px;
+    border: none;
+    box-shadow:  5px 1px 10px rgb(210, 224, 224);
+    margin-top: 10px;
+}
+.card img{
+    height: 50%;
+    width: 100%;
+    padding: 10px;
+}
+.ok{
+    border-top: none;
+    
+}
+.allCard .card-footer {
+    padding: .75rem 1.25rem;
+    border-top: none;
+    margin-top: 10px;
+}
+.card-footer img{
+    height: 45px;
+    width: 45px;
+}
+small{
+    font-weight: 600;
+}
+.testimonial{
+    text-align: center;
+    margin-top: 50px;
+    color: rgb(32, 32, 138);
+    font-weight: 600;
+}
+hr{
+    width: 300px;
+    border: 5px solid crimson;
+}
+.man img{
+    margin-left: 200px;
+    margin-top: 50px;
+    height: 150px;
+    width: 150px;
+}
+.text{
+    margin-top: 85px;
+    margin-right: 100px;
+    font-weight: 600;
+    margin-left: 20px;
+}
+.footer_site{
+    margin-top: 70px;
+    height: 400px;
+    background-color: rgb(41, 42, 80);
+}
+.childe p{
+    color: rgb(245, 247, 216);
+    margin-top: 50px;
+}
+
+.child2 h1{
+    color: aliceblue;
+    margin-top: 50px;
+    font-size: 30px;
+}
+.child2 a p{
+    color: aliceblue;
+    font-weight: 600;
+    text-decoration: none;
+}
+.grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    flex-wrap: wrap;
+}
+.hello , .hello2, .hello3{
+    color: aliceblue;
+}
+.hello ul a{
+    margin-left: 29px;
+    text-decoration: none;
+}
+.hello2 ul a{
+    margin-left: 34px;
+    text-decoration: none;
+}
+.hello3 ul a{
+    margin-left: 29px;
+    text-decoration: none;
+}
+
+.hello p{
+    text-align: center;
+    padding: 20px;
+    margin: 5px;
+    margin-top: 30px;
+    margin-right: 40px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.hello2 p{
+    text-align: center;
+    padding: 20px;
+    margin: 5px;
+    margin-top: 30px;
+    margin-right: 48px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.hello3 p{
+    text-align: center;
+    padding: 20px;
+    margin: 5px;
+    margin-top: 30px;
+    margin-right: 16px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.copyright{
+    color: rgb(170, 177, 184);
+    text-align: center;
+    margin-top: 80px;
+}
+.emoji::before{
+    content: url(ICON/fave.png);
+   
+}
+.emoji{
+    margin-bottom: 100px;
+}
+
